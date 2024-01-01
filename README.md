@@ -1,4 +1,4 @@
-React NavBar Project
+React NavBar Project (In-Progress)
 
 # Getting Started with Create React App
 
